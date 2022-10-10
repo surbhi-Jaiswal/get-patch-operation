@@ -1,4 +1,4 @@
-const { italic, cyan } = require("colorette")
+
 
 describe('patch user details',()=>{
 it('patch user',()=>{
